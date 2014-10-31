@@ -1,4 +1,5 @@
 HelloPython
 ===========
 
-some cases for study Python
+* Machine Learning 
+* Computer Vision

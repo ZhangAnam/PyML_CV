@@ -8,7 +8,7 @@ Machine Learing (ML)
 
 参考资料
 ----------
-【1】 [https://class.coursea.org/ml](https://class.coursea.org/ml "Machine Learning by Andrew Ng") ,《机器学习》课程, Andrew Ng<br />
+【1】 [https://class.coursera.org/ml](https://class.coursera.org/ml "Machine Learning by Andrew Ng") ,《机器学习》课程, Andrew Ng<br />
 【2】 《Python科学计算》, 张若愚, 清华大学出版社<br />
 【3】 《Python学习手册》, Mark Lutz, 李军等译, O'REILLY, 机械工业出版社<br />
 
