@@ -1,7 +1,7 @@
 Machine Learing (ML)
 ===========
 
-使用Python 的 `Numpy`, `Scipy`, `matplotlib`, Sciki Learn(`sklearn`) 等软件包
+使用Python 的 `Numpy`, `Scipy`, `matplotlib`, Scikit Learn(`sklearn`) 等软件包
 
 # 线性回归 Regission
    * 待完善：统计检验
