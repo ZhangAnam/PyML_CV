@@ -6,6 +6,7 @@ Machine Learing (ML)
 # 线性回归 Regission
    * 待完善：统计检验
 # K-近邻算法 KNN
+   * 手写体识别 - KNN算法
 
 参考资料
 ----------
